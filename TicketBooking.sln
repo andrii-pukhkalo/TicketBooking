@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketBooking", "TicketBooking\TicketBooking.csproj", "{4EAFB60A-F1BF-4084-AAB2-717CA9A1438E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteAllLinesAsync", "WriteAllLinesAsync\WriteAllLinesAsync.csproj", "{EF7BC209-7883-4B2F-A43F-BCA39B5665FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EAFB60A-F1BF-4084-AAB2-717CA9A1438E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAFB60A-F1BF-4084-AAB2-717CA9A1438E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAFB60A-F1BF-4084-AAB2-717CA9A1438E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAFB60A-F1BF-4084-AAB2-717CA9A1438E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7BC209-7883-4B2F-A43F-BCA39B5665FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7BC209-7883-4B2F-A43F-BCA39B5665FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7BC209-7883-4B2F-A43F-BCA39B5665FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7BC209-7883-4B2F-A43F-BCA39B5665FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B6C699-AA39-4378-B506-229A3BA9B9AF}
+	EndGlobalSection
+EndGlobal
